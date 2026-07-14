@@ -1,0 +1,145 @@
+/* --- Base Styles --- */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body {
+     background: #ecf4fb;
+}
+
+/* --- Header Typography Style (New Feature) --- */
+header {
+    text-align: center;
+    margin-top: 40px;
+}
+header h1 {
+    font-size: 42px;
+    color: #222;
+    font-family: sans-serif;
+}
+header p {
+    margin-top: 10px;
+    color: #666;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+/* --- Image Gallery Grid --- */
+.img-gallery {
+    width: 80%;
+    margin: 100px auto 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 30px;
+}
+.img-gallery img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    cursor: pointer;
+    transition: transform 0.4s ease, border-radius 0.4s ease;
+}
+
+/* --- Upgraded Image Lift Hover Effect (New Feature) --- */
+.img-gallery img:hover {
+    transform: translateY(-8px) scale(1.05); /* Image halki si upar uthegi aur badi hogi */
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+/* --- Lightbox Main Overlay Container --- */
+.full-img {
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.9);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex; /* Hamesha flex rahega, opacity se handle hoga */
+    opacity: 0;
+    visibility: hidden;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+/* Lightbox active hone par show karne ke liye */
+.full-img.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* --- Smooth Image Swap Effect (New Feature) --- */
+.full-img img {
+    width: 90%;
+    max-width: 500px;
+    max-height: 80vh;
+    border-radius: 10px;
+    opacity: 1; 
+    transition: opacity 0.3s ease, transform 0.3s ease; /* 2. Transition ko aur specific aur smooth kar diya */
+}
+
+/* --- Next/Prev Rounded Premium Buttons --- */
+.nav-btn {
+    width: 55px;
+    height: 55px;
+    background: rgba(255, 255, 255, 0.15);
+    color: #fff;
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    user-select: none;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+.nav-btn:hover {
+    background: #fff;
+    color: #000;
+}
+.prev-btn { left: 4%; }
+.next-btn { right: 4%; }
+
+/* --- Close Button Rounded Layout --- */
+.close-btn {
+    position: absolute;
+    top: 5%;
+    right: 4%;
+    width: 45px;
+    height: 45px;
+    background: rgba(255, 255, 255, 0.15);
+    color: #fff;
+    font-size: 22px;
+    font-family: sans-serif;
+    cursor: pointer;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+.close-btn:hover {
+    background: #ff4d4d;
+    color: #fff;
+    transform: scale(1.1);
+}
+
+/* --- Premium Image Counter Style (New Feature) --- */
+.img-counter {
+    position: absolute;
+    bottom: 5%;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 18px;
+    font-family: sans-serif;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 6px 18px;
+    border-radius: 30px;
+    backdrop-filter: blur(5px);
+    letter-spacing: 1px;
+}
