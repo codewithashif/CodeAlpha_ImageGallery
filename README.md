@@ -24,10 +24,10 @@ A modern, responsive Image Gallery built using <b>HTML</b>, <b>CSS</b>, and <b>J
 
 ---
 
-# 📸 Project Preview
+## 📸 Project Preview
 
 <p align="center">
-  <img src="thumbnail.jpg" alt="Responsive Image Gallery" width="100%">
+  <img src="demo.gif" width="100%">
 </p>
 
 ---
