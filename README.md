@@ -1,6 +1,5 @@
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Responsive+Image+Gallery;Frontend+Development+Project;CodeAlpha+Internship;Built+with+HTML+CSS+JavaScript">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Responsive+Image+Gallery;CodeAlpha+Frontend+Internship;Responsive+%E2%80%A2+Interactive+%E2%80%A2+Modern+UI;Built+with+HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript">
 
 </p>
 
@@ -24,7 +23,16 @@ A modern, responsive Image Gallery built using <b>HTML</b>, <b>CSS</b>, and <b>J
 
 ---
 
+
 ## 📸 Project Preview
+
+<p align="center">
+  <img src="thumbnail.jpg" width="100%">
+</p>
+
+⭐ Click the Live Demo below to explore the project.
+
+## 📸 Project Demo
 
 <p align="center">
   <img src="demo.gif" width="100%">
@@ -32,15 +40,13 @@ A modern, responsive Image Gallery built using <b>HTML</b>, <b>CSS</b>, and <b>J
 
 ---
 
-# 🚀 Live Demo
+## 🚀 Live Demo
 
-https://codewithashif.github.io/CodeAlpha_ImageGallery/
+👉 **[View Live Demo](https://codewithashif.github.io/CodeAlpha_ImageGallery/)**
 
----
+## 📂 GitHub Repository
 
-# 📂 GitHub Repository
-
-https://github.com/codewithashif/CodeAlpha_ImageGallery
+👉 https://github.com/codewithashif/CodeAlpha_ImageGallery
 
 ## ✨ Features
 
@@ -114,13 +120,14 @@ Hi, I'm **Ashif Khan** 👋
 
 🚀 Passionate about building responsive and user-friendly web applications.
 
+🚀 Open to Internship & Frontend Development Opportunities
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/ashif-khan-6957b0307/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
