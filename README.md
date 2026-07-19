@@ -35,3 +35,52 @@ https://codewithashif.github.io/CodeAlpha_ImageGallery/
 # 📂 GitHub Repository
 
 https://github.com/codewithashif/CodeAlpha_ImageGallery
+
+## ✨ Features
+
+- 📱 Fully Responsive Design
+- 🖼️ Interactive Image Gallery
+- 🔍 Lightbox Image Preview
+- ⬅️➡️ Previous & Next Navigation
+- ⌨️ Keyboard Navigation Support
+- 🎨 Smooth Hover Animations
+- ⚡ Fast and Lightweight
+- 💻 Cross-Browser Compatible
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript (ES6) | Functionality |  
+
+## 📁 Project Structure
+
+```
+CodeAlpha_ImageGallery/
+│── images/
+│── index.html
+│── style.css
+│── script.js
+│── thumbnail.jpg
+│── README.md
+```
+
+## 🚀 How to Run
+
+1. Clone this repository
+
+```bash
+git clone https://github.com/codewithashif/CodeAlpha_ImageGallery.git
+```
+
+2. Open the project folder.
+
+3. Run `index.html` in your browser.
+
+OR
+
+Visit the Live Demo:
+https://codewithashif.github.io/CodeAlpha_ImageGallery/
+
