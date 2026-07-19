@@ -1,3 +1,9 @@
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Responsive+Image+Gallery;Frontend+Development+Project;CodeAlpha+Internship;Built+with+HTML+CSS+JavaScript">
+
+</p>
+
 <h1 align="center">🖼️ Responsive Image Gallery</h1>
 
 <p align="center">
@@ -83,4 +89,66 @@ OR
 
 Visit the Live Demo:
 https://codewithashif.github.io/CodeAlpha_ImageGallery/
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+It motivates me to build more awesome projects.
+
+⭐ **Don't forget to Star this repository!**
+
+---
+
+## 👨‍💻 About the Developer
+
+Hi, I'm **Ashif Khan** 👋
+
+🎓 BCA Student
+
+💻 Frontend Developer
+
+🌱 Currently learning JavaScript, React & Full Stack Development
+
+🚀 Passionate about building responsive and user-friendly web applications.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/codewithashif" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 🏆 Internship
+
+This project was developed as part of the **CodeAlpha Frontend Development Internship Program**.
+
+---
+
+## 📜 License
+
+This project is intended for educational purposes.
+
+Feel free to fork and modify it.
+
+---
+
+<p align="center">
+
+Made with ❤️ by <b>Ashif Khan</b>
+
+</p>
 
